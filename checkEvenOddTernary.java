@@ -4,7 +4,7 @@ import java.util.Scanner;
  * 
  * here is nthis but some decriptions
  */
-
+//save changes
 public class checkEvenOddTernary{
 
         public static void main(String[] args) {
